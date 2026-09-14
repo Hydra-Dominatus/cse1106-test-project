@@ -1,2 +1,1 @@
-# cse1106-test-project
-trying out github 
+Practice project for  github
